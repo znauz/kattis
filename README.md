@@ -1,3 +1,3 @@
 # kattis
 
-Various problems from https://open.kattis.com/ solved in c++
+Various solutions to problems from https://open.kattis.com/ solved in c++
